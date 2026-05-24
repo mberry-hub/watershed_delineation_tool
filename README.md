@@ -1,4 +1,4 @@
-# Watershed Tool
+# Watershed Delineation Tool
 
 A Python/ArcPy geospatial analysis tool that automates watershed delineation using a digital elevation model (DEM) and a user-defined pour point.
 
